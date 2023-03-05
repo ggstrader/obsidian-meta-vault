@@ -9,7 +9,7 @@ git clone https://github.com/ggstrader/obsidian-meta-vault.git --recurse-submodu
 # I'm not very technical, how do I use this thing?
 The simplest way to get started is to go to [releases](https://github.com/ggstrader/obsidian-meta-vault/releases/) and download `obsidian-meta-vault.zip` from the latest release. When you unzip it, you'll see folders like "Dailies." Each folder inside will have a number like '0001.' You can open each of these as it's own vault. You may need to enable community plugins when you do so.
 
-# How to use this repository
+# I am somewhat technical, how do I use this thing?
 
 The repo utilizes submodules to make it easier for devs to work on and update their snippets, dashboards, etc. without having to get approval for every change, and to still own their own work. It also makes it easier to "freeze" the submodules in time for specific versions of obsidian.
 
